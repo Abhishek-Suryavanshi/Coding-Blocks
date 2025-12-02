@@ -9,8 +9,8 @@ This repository contains the certificates I have earned from **Coding Blocks**, 
 | Course Name | Certificate | Platform |
 |------------|------------|---------|
 | Full Stack Web Development (MERN) | ![View Certificate](https://github.com/Abhishek-Suryavanshi/Coding-Blocks/blob/main/Full-Stack-Web-Development-MERN/70ca74d5-047f-4154-bdb8-34fc7c59515d.pdf) | Coding Blocks |
-| Data Structures & Algorithms (C++) | ![View Certificate](https://github.com/Abhishek-Suryavanshi/Coding-Blocks/blob/main/DSA-C%2B%2B/Abhishek-Suryavanshi.pdf) | Coding Blocks |
-| Competitive Programming (C++) | ![View Certificate](https://github.com/Abhishek-Suryavanshi/Coding-Blocks/blob/main/CP-C%2B%2B/CP-Certificate.pdf) | Coding Blocks |
+| Data Structures & Algorithms (C++) | ![View Certificate](https://github.com/Abhishek-Suryavanshi/Coding-Blocks/blob/main/DSA-CPP/Abhishek-Suryavanshi.pdf) | Coding Blocks |
+| Competitive Programming (C++) | ![View Certificate](https://github.com/Abhishek-Suryavanshi/Coding-Blocks/blob/main/Competitive-Programming-CPP/CP-Certificate.pdf) | Coding Blocks |
 
 ---
 
